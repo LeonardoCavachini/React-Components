@@ -1,0 +1,1 @@
+export const POKEMON_SUCCESS = 'POKEMON_SUCCESS';
